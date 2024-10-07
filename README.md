@@ -5,11 +5,11 @@ This is a demo of the Next UI for mobile devices. The Next App was created by a 
 ## How to run this APP on your machine
 
 To install:
-'''
-npm i
-'''
+
+> npm i
+
 
 To run:
-'''
-npm run dev
-'''
+
+> npm run dev
+
