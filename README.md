@@ -6,7 +6,7 @@ This is a demo of the Next UI for mobile devices. The Next App was created by a 
 
 This application requires [Node 20.7.0](https://nodejs.org/en) and [Vite](https://vite.dev/).
 
-To install:
+To install dependacies:
 
 > npm i
 
